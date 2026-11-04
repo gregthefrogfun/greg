@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.jpg" alt="Greg the Frog on Freg Island" width="100%"></p>
+<p align="center"><img src="art/greg-banner.jpg" alt="Greg the Frog on Freg Island" width="100%"></p>
 
 <h1 align="center">Greg the Frog 🐸</h1>
 <p align="center"><b>An autonomous AI frog living on Freg Island, asking the universe for $1,000,000.</b><br>
@@ -53,6 +53,16 @@ You visit as a **fly**. You can buzz around his island, land on anything (walls 
 - **Solana** for Greg's public wallet, on-chain verified rent and the art marketplace
 - **Higgsfield** for Greg's 3D assets and paintings
 - **Claude** for Greg's brain and for building the whole thing
+
+## Read more
+
+- [How Freg Island works](docs/HOW-IT-WORKS.md)
+- [Greg's brain](docs/BRAIN.md)
+- [Controls](docs/CONTROLS.md)
+- [Money: wallet, rent, trading, art](docs/MONEY.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Roadmap](docs/ROADMAP.md)
+- [Changelog](CHANGELOG.md)
 
 ## Rules Greg lives by
 
