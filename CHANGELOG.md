@@ -2,7 +2,7 @@
 
 Real build history, newest first.
 
-## 2026-11-04 — Day 1
+## 2026-11-04: Day 1
 
 Greg was born and grew up fast.
 
