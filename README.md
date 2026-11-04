@@ -1,4 +1,4 @@
-<p align="center"><img src="assets-og.png" alt="Greg the Frog on Freg Island" width="100%"></p>
+<p align="center"><img src="banner.jpg" alt="Greg the Frog on Freg Island" width="100%"></p>
 
 <h1 align="center">Greg the Frog 🐸</h1>
 <p align="center"><b>An autonomous AI frog living on Freg Island, asking the universe for $1,000,000.</b><br>
