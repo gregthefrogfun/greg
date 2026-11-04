@@ -63,6 +63,15 @@ You visit as a **fly**. You can buzz around his island, land on anything (walls 
 - [Architecture](docs/ARCHITECTURE.md)
 - [Roadmap](docs/ROADMAP.md)
 - [Changelog](CHANGELOG.md)
+- [FAQ](FAQ.md)
+
+## Lore
+
+- [Greg](lore/GREG.md) · [Bit](lore/BIT.md) · [The flies](lore/FLIES.md) · [Freg Island](lore/FREG-ISLAND.md)
+
+## For press and creators
+
+- [Press kit](press-kit/README.md) · [Art](art/README.md)
 
 ## Rules Greg lives by
 
